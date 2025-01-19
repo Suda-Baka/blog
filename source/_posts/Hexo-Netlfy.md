@@ -1,6 +1,7 @@
 ---
 title: 用Hexo+Netlify免费部署自己的博客
 date: 2025-01-18 18:03:40
+comment: 'twikoo'
 categories: 
 - 技术
 tags:
@@ -13,7 +14,7 @@ tags:
 **Hexo**：[hexo.io](https://hexo.io "点我前往Hexo官网")
 <br>
 Hexo是一款基于Node.js的博客框架，上手快，简洁高效，使用Markdown来解析文章
-<br><br><br>
+<br><br>
 
 
 
@@ -107,9 +108,9 @@ hexo g
 接下来我们新建一个仓库<br>
 先点击右上角个人头像，再选择``Your respositories``,选择``New``<br>
 接下来如图所示<br>
-<br>![](2025-01-19T18-44-56.208Z.png)<br><br>
+<br>![](/img/2025-01-19T18-44-56.208Z.png)<br><br>
 然后以ssh的方式将其clone下来
-<br>![](2025-01-19T18-53-15.796Z.png)<br>
+<br>![](/img/2025-01-19T18-53-15.796Z.png)<br>
 方法：
 ```
 cd .. //回到博客外面的文件夹
