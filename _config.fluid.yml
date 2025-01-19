@@ -238,6 +238,7 @@ custom_js:
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
 custom_css:
+  - /css/custom.css  # 引用自定义的 CSS 文件
 
 # 网页访问统计
 # Analysis of website visitors
@@ -1128,3 +1129,4 @@ static_prefix:
   hint: https://lib.baomitu.com/hint.css/2.7.0/
 
   moment: https://lib.baomitu.com/moment.js/2.29.4/
+
