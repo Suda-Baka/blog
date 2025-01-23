@@ -2,7 +2,10 @@
 title: about
 layout: about
 ---
-__欢迎来到我的小站呀，很高兴遇见你!__
+<p class="note note-light" style="font-size: 20px;">
+  <strong>欢迎来到我的小站呀，很高兴遇见你!</strong>
+</p>
+
 ## ⛹个人简介
 <ul>
   <li>初中牲</li>
