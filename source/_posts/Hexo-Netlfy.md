@@ -1,7 +1,6 @@
 ---
 title: 用Hexo+Netlify免费部署自己的博客
 date: 2025-01-18 18:03:40
-comment: 'twikoo'
 categories: 
 - 技术
 tags:

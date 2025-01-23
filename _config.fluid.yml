@@ -172,7 +172,7 @@ color:
 
   # 主面板背景色
   # Color of main board
-  board_color: "#BFEFFF"
+  board_color: "#fff"
   board_color_dark: "#BFEFFF"
 
   # 文章正文字体色
@@ -752,7 +752,7 @@ post:
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: valine
+    type: utterances
 
 
 #---------------------------
@@ -768,7 +768,7 @@ post:
 # Based on GitHub Issues
 # See: https://utteranc.es
 utterances:
-  repo:
+  repo: Suda-Baka/blog
   issue_term: pathname
   label: utterances
   theme: github-light
@@ -1066,7 +1066,7 @@ links:
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: Waline
+    type: utterances
 
 
 #---------------------------
