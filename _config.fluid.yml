@@ -238,7 +238,7 @@ custom_js:
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
 custom_css:
-  - /css/custom.css  # 引用自定义的 CSS 文件
+  - /css/Font.css  # 引用自定义的 CSS 文件
 
 # 网页访问统计
 # Analysis of website visitors
@@ -483,7 +483,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://t.mwm.moe/pc/
+  banner_img: https://t.mwm.moe/fj/
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
