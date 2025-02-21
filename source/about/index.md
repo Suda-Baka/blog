@@ -2,7 +2,7 @@
 title: about
 layout: about
 ---
-<p class="note note-light" style="font-size: 20px;">欢迎来到我的小站呀，很高兴遇见你!</p>
+>欢迎来到我的小站呀，很高兴遇见你!
 
 ## ⛹个人简介
 <ul>
