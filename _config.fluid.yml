@@ -140,45 +140,45 @@ dark_mode:
 color:
   # body 背景色
   # Color of body background
-  body_bg_color: "#F4C8D3"
+  body_bg_color: "#FFFFFF"
   # 暗色模式下的 body 背景色，下同
   # Color in dark mode, the same below
-  body_bg_color_dark: "#585858"
+  body_bg_color_dark: "#808080"
 
   # 顶部菜单背景色
   # Color of navigation bar background
-  navbar_bg_color: "#F4C8D3"
-  navbar_bg_color_dark: "#BFEFFF"
+  navbar_bg_color: "#FFFFFF"
+  navbar_bg_color_dark: "#808080"
 
   # 顶部菜单字体色
   # Color of navigation bar text
-  navbar_text_color: "#fff"
+  navbar_text_color: "#000000"
   navbar_text_color_dark: "#d0d0d0"
 
   # 副标题字体色
   # Color of subtitle text
-  subtitle_color: "#fff"
+  subtitle_color: "#000000"
   subtitle_color_dark: "#d0d0d0"
 
   # 全局字体色
   # Color of global text
-  text_color: "#3c4858"
-  text_color_dark: "#000000"
+  text_color: "#000000"
+  text_color_dark: "#fff"
 
   # 全局次级字体色（摘要、简介等位置）
   # Color of global secondary text (excerpt, introduction, etc.)
   sec_text_color: "#718096"
-  sec_text_color_dark: "#000000"
+  sec_text_color_dark: "#fff"
 
   # 主面板背景色
   # Color of main board
   board_color: "#fff"
-  board_color_dark: "#BFEFFF"
+  board_color_dark: "#808080"
 
   # 文章正文字体色
   # Color of post text
   post_text_color: "#2c3e50"
-  post_text_color_dark: "#000000"
+  post_text_color_dark: "#fff"
 
   # 文章正文字体色（h1 h2 h3...）
   # Color of Article heading (h1 h2 h3...)
@@ -188,7 +188,7 @@ color:
   # 文章超链接字体色
   # Color of post link
   post_link_color: "#0366d6"
-  post_link_color_dark: "#000000"
+  post_link_color_dark: "#0366d6"
 
   # 超链接悬浮时字体色
   # Color of link when hovering
