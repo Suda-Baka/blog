@@ -688,7 +688,7 @@ post:
     # 显示更新日期
     # Show update date
     update_date:
-      enable: false
+      enable: true
       format: "LL"
 
   # 文章底部上一篇下一篇功能
@@ -958,7 +958,7 @@ category:
 # Tag Page
 #---------------------------
 tag:
-  enable: true
+  enable: false
   banner_img: https://t.mwm.moe/fj/
   banner_img_height: 80
   banner_mask_alpha: 0.3
@@ -976,7 +976,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://t.alcy.cc/acg/
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: https://avatars.githubusercontent.com/u/192978705?s=400&u=26f4e6ea1b9d4f746a1ad12d45cb176475580716&v=4
