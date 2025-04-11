@@ -1,5 +1,6 @@
 /* 设置整个页面的字体，不改变原有字号 */
-html, body, .markdown-body {
-  font-family: 'SimSun', 'Microsoft YaHei', Georgia, sans-serif;  /* 使用宋体作为首选字体，后备字体为微软雅黑、Georgia、无衬线字体 */
+html, body, .markdown-body, p {
+  font-family: 'LXGW WenKai Screen', 'SimSun', 'Microsoft YaHei', Georgia, sans-serif;  /* 使用LXGW WenKai Screen作为首选字体，后备字体为宋体、微软雅黑、Georgia、无衬线字体 */
   /* 不改变 font-size，保留原有的字体大小 */
+  font-size: inherit; /* 保留原有的字体大小 */
 }
