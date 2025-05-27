@@ -183,7 +183,7 @@ color:
   # 文章正文字体色（h1 h2 h3...）
   # Color of Article heading (h1 h2 h3...)
   post_heading_color: "#1a202c"
-  post_heading_color_dark: "#000000"
+  post_heading_color_dark: "#fff"
 
   # 文章超链接字体色
   # Color of post link
@@ -555,7 +555,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://t.mwm.moe/pc/
+  banner_img: https://t.alcy.cc/moez/
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -919,7 +919,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://t.alcy.cc/moez/
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -930,7 +930,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: https://t.mwm.moe/pc/
+  banner_img: https://t.alcy.cc/moez/
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -959,7 +959,7 @@ category:
 #---------------------------
 tag:
   enable: false
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://t.alcy.cc/moez/
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -1010,7 +1010,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://t.alcy.cc/moez/
   banner_img_height: 85
   banner_mask_alpha: 0.3
   # 重定向到首页的延迟(毫秒)
