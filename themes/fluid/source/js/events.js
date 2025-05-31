@@ -39,7 +39,7 @@ Fluid.events = {
       jQuery('#navbar').toggleClass('navbar-col-show');
       setTimeout(function() {
         $this.data('animating', false);
-      }, 300);
+      }, 340);
     });
   },
 

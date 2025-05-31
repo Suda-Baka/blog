@@ -2,9 +2,10 @@
 @font-face {
   font-family: 'HYWenHei85W';
   src: url('/css/HYWenHei85W.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 html, body, .markdown-body, p {
   font-family: 'HYWenHei85W', 'SimSun';
-  font-size: inherit;
 }
