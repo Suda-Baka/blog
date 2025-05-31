@@ -1,5 +1,10 @@
 /* 设置整个页面的字体，不改变原有字号 */
+@font-face {
+  font-family: 'HYWenHei85W';
+  src: url('/css/HYWenHei85W.ttf') format('truetype');
+}
+
 html, body, .markdown-body, p {
-  font-family: 'SimSun', 'Microsoft YaHei', Georgia, sans-serif;
+  font-family: 'HYWenHei85W', 'SimSun';
   font-size: inherit;
 }
