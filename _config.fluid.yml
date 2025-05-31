@@ -23,11 +23,11 @@ background_trymentclock:
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: https://avatars.githubusercontent.com/u/192978705?s=400&u=26f4e6ea1b9d4f746a1ad12d45cb176475580716&v=4
+favicon: /img/favicon.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: https://avatars.githubusercontent.com/u/192978705?s=400&u=26f4e6ea1b9d4f746a1ad12d45cb176475580716&v=4
+apple_touch_icon: /img/favicon.png
 
 # 浏览器标签页中的标题分隔符，效果：文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -604,7 +604,7 @@ post:
     # 浏览量计数
     # Number of visits
     views:
-      enable: false
+      enable: true
       # 统计数据来源
       # Data Source
       # Options: busuanzi | leancloud | umami

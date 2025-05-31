@@ -3,6 +3,7 @@ title: Arch Linux 安装教程（以 BIOS/MBR 为例）
 date: 2025-04-11 18:03:40
 categories: 
 - 技术
+excerpt: 本文以 Arch Linux 2025.04.01 版本为例详细介绍如何在 BIOS/MBR 模式下安装 Arch Linux，包括分区、挂载、安装和配置等步骤。
 tags:
 - Arch Linux
 - 教程
@@ -10,9 +11,10 @@ tags:
 
 # 1 Arch Linux 的安装
 
-**注意：本教程以 BIOS/MBR 引导模式为例，UEFI 引导模式请参考 [Arch Linux UEFI 安装教程](https://linux.do/t/topic/8990)。**
-
-**注意：本教程以 Arch Linux 2025.04.01 版本为例，其他版本请自行调整。**
+{% note info %}
+ATTENTION
+本教程以 BIOS/MBR 引导模式为例，UEFI 引导模式请参考 [Arch Linux UEFI 安装教程](https://linux.do/t/topic/8990)。本教程以 Arch Linux 2025.04.01 版本为例，其他版本请自行调整。
+{% endnote %}
 
 ## 1.1 前置工作
 
@@ -71,7 +73,8 @@ $ pacman -Syy
 ## 1.2 分区挂载
 
 {% note warning %}
-**警告：此过程必须慎重（尤其是对于双硬盘/多硬盘等存有大量或高价值数据者），严重者可能会丢失所有数据！**
+WARNING
+此过程必须慎重（尤其是对于双硬盘/多硬盘等存有大量或高价值数据者），严重者可能会丢失所有数据！
 {% endnote %}
 
 **此处使用 SATA 硬盘为例**
@@ -393,6 +396,7 @@ $ yay
 ```
 
 {% note warning %}
+WARNING
 在更新时请先查看 ArchLinux 官网的新闻公告，看是否需要升级时人为干预，请勿无脑更新。
 {% endnote %}
 
