@@ -1,5 +1,5 @@
 ---
-title: 用Hexo+Netlify免费部署自己的博客
+title: 用 Hexo + Netlify 免费部署自己的博客
 date: 2025-01-18 18:03:40
 categories: 
 - 技术
@@ -16,7 +16,7 @@ tags:
 Hexo 是一款基于 Node.js 的博客框架，上手快，简洁高效，使用 Markdown 来解析文章。
 
 ## 准备工作
-你需要安装以下软件包： ``nodejs`` ``git``
+你需要安装以下软件包： ``node.js`` ``git``
 
 ## 安装
 首先安装 hexo cli
